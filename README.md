@@ -27,6 +27,13 @@ nf i my:alex/hello-world --save
 
 Actually, all the work of the npmfill is to transform the specified package syntax to an git url. If it can be transformed, the command line arguments  are passed to npm intact.
 
+## Todos
+
+- Add tests
+- Improve the document
+- Support multiple packages
+- Exit code, stdout and stderr
+
 ## License
 
 MIT
